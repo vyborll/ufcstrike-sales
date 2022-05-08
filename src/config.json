@@ -1,0 +1,25 @@
+{
+	"store_front": {
+		"contract": "4eb8a10cb9f87357",
+		"name": "NFTStorefront",
+		"events": {
+			"listingCompleted": "ListingCompleted"
+		}
+	},
+	"ufc_nft": {
+		"contract": "329feb3ab062d289",
+		"name": "UFC_NFT",
+		"type": "NFT",
+		"events": {
+			"withdraw": "Withdraw",
+			"deposit": "Deposit"
+		}
+	},
+	"dapper_coin": {
+		"contract": "ead892083b3e2c6c",
+		"name": "DapperUtilityCoin",
+		"events": {
+			"tokensWithdrawn": "TokensWithdrawn"
+		}
+	}
+}
