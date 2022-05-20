@@ -1,2 +1,2 @@
 export * from './nft';
-export * from './setMetaData';
+export * from './metadata';
